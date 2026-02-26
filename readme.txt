@@ -13,3 +13,4 @@ Commit
 Publicar no GitHub
 Enviar link do repositório no Classroom
 Enviar apenas o Link do Repositório criado no GitHub.
+teste de clonagem 
